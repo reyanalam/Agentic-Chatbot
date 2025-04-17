@@ -73,3 +73,9 @@ python playground.py
 ```
 
 Login to phidata and open phidata dashboard. Add the endpoint and run it to interact with the agentic chatbot
+
+
+## Contact
+
+1. **Linkedin:** https://www.linkedin.com/in/reyanalam/
+2. **Gmail:** reyanalam115@gmail.com
