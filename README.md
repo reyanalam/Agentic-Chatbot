@@ -23,10 +23,10 @@ An intelligent multi-agent chatbot built using [Phidata](https://docs.phidata.co
 
 ### Finance Agent
 - Uses **YFinanceTools** to fetch:
-  - 📈 Stock Prices
-  - 📰 Latest Company News
-  - 📊 Analyst Recommendations
-  - 🏢 Company Info
+  - Stock Prices
+  - Latest Company News
+  - Analyst Recommendations
+  - Company Info
 - Automatically formats outputs into **tables** for readability.
 
 ### Multi-AI Agent
@@ -50,7 +50,7 @@ multi_ai_agent.print_response(
 
 ```
 git clone https://github.com/your-username/agentic-chatbot.git
-cd agentic chatbot
+cd agentic-chatbot
 ```
 
 ### 2. Set up the environment
