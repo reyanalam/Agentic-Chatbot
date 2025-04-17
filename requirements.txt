@@ -1,0 +1,9 @@
+phidata
+python-dotenv
+yfinance
+packaging
+duckduckgo-search #tool that helps in web search
+fastapi[all]
+uvicorn
+groq
+openai
